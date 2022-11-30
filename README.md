@@ -3,7 +3,7 @@
 ### Homework:
 
 <br/>
-$f(x) = -12x^{4}*sin(cos(x)) - 18x^{3}+5x^{2} + 10x - 30$ </br>
+$f(x) = 5*x^2 + 10*x + 150$ </br>
 <br/>
 
     1. Identify the roots
